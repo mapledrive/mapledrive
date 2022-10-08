@@ -41,7 +41,7 @@ Many thanks to [Brent][brettz9] and JT for sponsoring my work.
     <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/zach-nguyen">
+<a href="https://www.linkedin.com/in/sait-sharifullin">
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
