@@ -21,8 +21,8 @@ Frontend developer and aspiring computer scientist.
 :coffee: **Java**, Java Swing  
 :snake: **Python**, PyGTK  
 :sunglasses: **JavaScript**, React.js, redux  
-:paintbrush: Figma, Paint (2D)
-:pick: VSCode, Windows, Bash, command line
+:paintbrush: **Figma**, Paint  
+:pick: **VSCode**, Windows, Bash, command line  
 
 [inkscape]: https://inkscape.org
 [spline]: https://spline.design
