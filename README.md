@@ -22,7 +22,7 @@ Frontend developer and aspiring computer scientist.
 :snake: **Python**, PyGTK  
 :sunglasses: **JavaScript**, React.js, redux  
 :paintbrush: **Figma**, Paint  
-:pick: **VSCode**, Windows, Bash, command line  
+:pick: **VSCode**, Windows, Bash, command line
 
 [inkscape]: https://inkscape.org
 [spline]: https://spline.design
@@ -47,29 +47,25 @@ Many thanks to [Brent][brettz9] and JT for sponsoring my work.
 ---
 
 <a href="mailto:sait.sharifullin@gmail.com">
-    <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
+    <img height="32" align="left" alt="Telegram" src="img/icons/telegram.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/sait-sharifullin">
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
-<a href="https://paypal.me/dy38">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
-</a>
-
-<a href="https://www.buymeacoffee.com/cah">
+<a href="https://www.buymeacoffee.com/gsswertg">
     <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
 </a>
 
-<a href="https://liberapay.com/cah">
+<a href="https://liberapay.com/sdsdfewgw">
     <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
 </a>
 
-<a href="https://www.instagram.com/thecguin">
+<a href="https://www.instagram.com/fdgerrdgfhf">
     <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 
-<a href="https://dribbble.com/cach">
+<a href="https://dribbble.com/bvhfgshg">
     <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
 </a>
