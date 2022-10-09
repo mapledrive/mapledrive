@@ -46,22 +46,22 @@ Frontend developer and aspiring computer scientist.
 
 ---
 
-<a href="mailto:sait.sharifullin@gmail.com">
+<a href="mailto:sait.sharifullin@gmail.com" target="_blank" rel="noopener noreferrer">
     <img height="32" align="left" alt="Telegram" src="img/icons/telegram.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/sait-sharifullin">
+<a href="https://www.linkedin.com/in/sait-sharifullin" target="_blank" rel="noopener noreferrer">
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
-<a href="https://github.com/mapledrive">
+<a href="https://github.com/mapledrive" target="_blank" rel="noopener noreferrer">
     <img height="32" align="left" alt="Github" src="img/icons/github.png" />
 </a>
 
-<a href="https://stackoverflow.com/users/7198964/kilogram">
+<a href="https://stackoverflow.com/users/7198964/kilogram" target="_blank" rel="noopener noreferrer">
     <img height="32" align="left" alt="Liberapay" src="img/icons/stackoverflow.png" />
 </a>
 
-<a href="https://www.instagram.com/fdgedfherherrdgfhf">
+<a href="https://www.instagram.com/fdgedfherherrdgfhf" target="_blank" rel="noopener noreferrer">
     <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
