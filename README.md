@@ -19,7 +19,7 @@ Frontend developer and aspiring computer scientist.
 ## Skills
 
 :snake: **React.js**, Redux, Redux-saga  
-:sunglasses: **JavaScript**
+:sunglasses: **JavaScript**  
 :paintbrush: **Figma**, Paint  
 :pick: **VSCode**, Windows, Bash, command line
 
