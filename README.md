@@ -38,9 +38,9 @@ Frontend developer and aspiring computer scientist.
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
-## Sponsors
+## Stackoverflow
 
-Many thanks to [Brent][brettz9] and JT for sponsoring my work.
+<a href="https://stackoverflow.com/users/7198964/kilogram"><img src="https://stackoverflow.com/users/flair/7198964.png" width="208" height="58" alt="profile at Stack Overflow" title="profile at Stack Overflow"></a>
 
 [brettz9]: http://example.me
 
@@ -59,13 +59,13 @@ Many thanks to [Brent][brettz9] and JT for sponsoring my work.
 </a>
 
 <a href="https://liberapay.com/sdsdfewgw">
-    <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
+    <img height="32" align="left" alt="Liberapay" src="img/icons/stackoverflow.png" />
 </a>
 
 <a href="https://www.instagram.com/fdgerrdgfhf">
     <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 
-<a href="https://dribbble.com/bvhfgshg">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+<a href="https://stackoverflow.com/users/7198964/kilogram">
+    <img height="32" align="left" alt="Stackoverflow" src="https://stackoverflow.com/users/flair/7198964.png" />
 </a>
