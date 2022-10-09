@@ -62,10 +62,6 @@ Frontend developer and aspiring computer scientist.
     <img height="32" align="left" alt="Liberapay" src="img/icons/stackoverflow.png" />
 </a>
 
-<a href="https://www.instagram.com/fdgerrdgfhf">
+<a href="https://www.instagram.com/fdgedfherherrdgfhf">
     <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
-</a>
-
-<a href="https://stackoverflow.com/users/7198964/kilogram">
-    <img height="32" align="left" alt="Stackoverflow" src="https://stackoverflow.com/users/flair/7198964.png" />
 </a>
