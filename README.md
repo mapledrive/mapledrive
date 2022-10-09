@@ -54,7 +54,7 @@ Many thanks to [Brent][brettz9] and JT for sponsoring my work.
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
-<a href="https://www.https://github.com/mapledrive">
+<a href="https://github.com/mapledrive">
     <img height="32" align="left" alt="Github" src="img/icons/github.png" />
 </a>
 
