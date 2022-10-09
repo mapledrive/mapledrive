@@ -18,7 +18,6 @@ Frontend developer and aspiring computer scientist.
 
 ## Skills
 
-:coffee: **Java**, Java Swing  
 :snake: **Python**, PyGTK  
 :sunglasses: **JavaScript**, React.js, redux  
 :paintbrush: **Figma**, Paint  
@@ -38,7 +37,7 @@ Frontend developer and aspiring computer scientist.
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
-## Stackoverflow
+## Stack Overflow
 
 <a href="https://stackoverflow.com/users/7198964/kilogram"><img src="https://stackoverflow.com/users/flair/7198964.png" width="208" height="58" alt="profile at Stack Overflow" title="profile at Stack Overflow"></a>
 
