@@ -58,7 +58,7 @@ Frontend developer and aspiring computer scientist.
     <img height="32" align="left" alt="Github" src="img/icons/github.png" />
 </a>
 
-<a href="https://liberapay.com/sdsdfewgw">
+<a href="https://stackoverflow.com/users/7198964/kilogram">
     <img height="32" align="left" alt="Liberapay" src="img/icons/stackoverflow.png" />
 </a>
 
