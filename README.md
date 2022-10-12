@@ -8,13 +8,13 @@ Frontend developer and aspiring computer scientist.
 
 :shipit: [**Birsk Institute**][ur] Dean's Scholar, Linguistics  
 :shipit: [**42youitm**][mpldrv] founder & software engineer  
-:shipit: [**TISUTG**][sug] tutor → tutoring chair  
-:shipit: [**DandyHacks**][dandyhacks] 2021 First Place winner, 2022 organizer
+:shipit: [**Qualified**][qualified] 2022 React Code Challenge 79%  
+:shipit: [**Qualified**][qualified] 2022 JavaScript Code Challenge 95%  
 
 [ur]: https://rochester.edu
 [mpldrv]: https://github.com/mapledrive
 [sug]: https://gkdfghkdfjgk.org
-[dandyhacks]: https://dandyhacks.net
+[qualified]: https://qualified.io
 
 ## Skills
 
