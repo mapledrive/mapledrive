@@ -45,7 +45,7 @@ Frontend developer and aspiring computer scientist.
 
 ---
 
-<a href="@sait500" target="_blank" rel="noopener noreferrer">
+<a href="https://t.me/+79872451905" target="_blank" rel="noopener noreferrer">
     <img height="32" align="left" alt="Telegram" src="img/icons/telegram.png" />
 </a>
 
