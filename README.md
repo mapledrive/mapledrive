@@ -7,12 +7,12 @@ Frontend developer and aspiring computer scientist.
 <img align="right" src="img/scene.png">
 
 :shipit: [**Birsk Institute**][ur] Dean's Scholar, Linguistics  
-:shipit: [**42youitm**][mpldrv] founder & software engineer  
+:shipit: [**exknow**][exknow] founder & software engineer  
 :shipit: [**Qualified**][qualified] 2022 React Code Challenge 79%  
 :shipit: [**Qualified**][qualified] 2022 JavaScript Code Challenge 95%  
 
 [ur]: https://rochester.edu
-[mpldrv]: https://github.com/mapledrive
+[exknow]: https://exknow.ru
 [sug]: https://gkdfghkdfjgk.org
 [qualified]: https://qualified.io
 
